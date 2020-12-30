@@ -6,3 +6,5 @@ Features that are enabled are:
 * Split distances other than 1KM for the activity pace breakdown
 * Showing the Max. Elevation & Dehydration on the activity summary
 * Viewing the activity history by frequencies other than 1 month
+* Viewing all statistics by frequencies other than 1 month
+* Enable comparisons of statistics from previous weeks, months & years
